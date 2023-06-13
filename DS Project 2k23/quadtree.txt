@@ -1,0 +1,14 @@
+4-4
+ gray
+- gray
+-- white
+-- black
+-- white
+-- black
+- black
+- gray
+-- black
+-- black
+-- black
+-- white
+- white
